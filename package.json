@@ -1,7 +1,7 @@
 {
-  "name": "github-clubhouse",
+  "name": "gh-clubhouse",
   "version": "0.6.1",
-  "description": "import GitHub issues as stories in Clubhouse",
+  "description": "import GitHub issues as stories in Clubhouse, adds v3 api",
   "main": "lib/",
   "bin": {
     "ch2gh": "bin/ch2gh.js",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LearnersGuild/github-clubhouse.git"
+    "url": "git+https://github.com/freight-trust/gh-clubhouse.git"
   },
   "author": {
     "name": "Jeffrey Wescott",
