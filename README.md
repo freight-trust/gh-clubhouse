@@ -1,8 +1,6 @@
 # github-clubhouse
 
-[![Code Climate GPA](https://codeclimate.com/repos/586a009bb716e3008100138b/badges/17d5efb482ed787fc530/gpa.svg)](https://codeclimate.com/repos/586a009bb716e3008100138b/feed)
-[![Code Climate Issue Count](https://codeclimate.com/repos/586a009bb716e3008100138b/badges/17d5efb482ed787fc530/issue_count.svg)](https://codeclimate.com/repos/586a009bb716e3008100138b/feed)
-[![Test Coverage](https://codeclimate.com/repos/586a009bb716e3008100138b/badges/17d5efb482ed787fc530/coverage.svg)](https://codeclimate.com/repos/586a009bb716e3008100138b/coverage)
+> v2
 
 Import GitHub issues as stories in [Clubhouse][clubhouse].
 
